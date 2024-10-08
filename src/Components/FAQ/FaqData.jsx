@@ -1,4 +1,4 @@
-import Faq from "./FAQ";
+import Faq from "./Faq";
 
 export default function FaqData() {
 
