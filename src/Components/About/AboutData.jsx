@@ -16,8 +16,8 @@ export default function AboutData() {
 
     const aboutImage = [
         {
-            img1: "./assets/images/about/about-image-01.jpg",
-            img2: "./assets/images/about/about-image-02.jpg"
+            img1: "public/images/about/about-image-01.jpg",
+            img2: "public/images/about/about-image-02.jpg"
         }
     ]
 

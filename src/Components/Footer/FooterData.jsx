@@ -88,13 +88,13 @@ export default function FooterData() {
             id: 1,
             name: "I think really important to design with...",
             blogLink: "blog-details.html",
-            img: "./assets/images/blog/blog-footer-01.jpg"
+            img: "public/images/blog/blog-footer-01.jpg"
         },
         {
             id: 2,
             name: "Recognizing the need is the primary...",
             blogLink: "blog-details.html",
-            img: "./assets/images/blog/blog-footer-02.jpg"
+            img: "public/images/blog/blog-footer-02.jpg"
         },
     ]
     return (

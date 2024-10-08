@@ -3,7 +3,7 @@ import NavMenus from "./NavMenus";
 
 export default function Navbar() {
 
-    const navSvg = "assets/images/logo/logo.svg";
+    const navSvg = "public/images/logo/logo.svg";
 
     return (
         <div className="ud-header absolute left-0 top-0 z-40 flex w-full items-center bg-transparent">
