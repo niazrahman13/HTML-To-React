@@ -1,6 +1,6 @@
 export default function HeroImageSection() {
 
-    const heroImg = "public/images/hero/hero-image.png";
+    const heroImg = "/images/hero/hero-image.png";
 
     return (
         <div className="w-full px-4">

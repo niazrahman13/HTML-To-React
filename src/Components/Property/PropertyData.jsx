@@ -6,7 +6,7 @@ export default function PropertyData() {
 
         {
             id: 1,
-            img: "public/images/Property/Villa1.webp",
+            img: "/images/Property/Villa1.webp",
             title: "Modern Design Villa",
             Payment: "$3500.00 /M",
             btnText: "Learn More",
@@ -15,7 +15,7 @@ export default function PropertyData() {
         },
         {
             id: 2,
-            img: "public/images/Property/Villa2.jpg",
+            img: "/images/Property/Villa2.jpg",
             title: "Personalized Villa",
             Payment: "$3000.00 /M",
             bed: 3,
@@ -24,7 +24,7 @@ export default function PropertyData() {
         },
         {
             id: 3,
-            img: "public/images/Property/Villa3.png",
+            img: "/images/Property/Villa3.png",
             title: "Expert Guidance Villa",
             Payment: "$4000.00 /M",
             btnText: "Learn More",
@@ -33,7 +33,7 @@ export default function PropertyData() {
         },
         {
             id: 4,
-            img: "public/images/Property/VIlla4.jpeg",
+            img: "/images/Property/VIlla4.jpeg",
             title: "Virtual Villa",
             Payment: "$2000.00 /M",
             btnText: "Learn More",
@@ -42,7 +42,7 @@ export default function PropertyData() {
         },
         {
             id: 5,
-            img: "public/images/Property/Villa5.jpg",
+            img: "/images/Property/Villa5.jpg",
             title: "Premium Villa",
             Payment: "$3000.00 /M",
             btnText: "Learn More",
@@ -51,7 +51,7 @@ export default function PropertyData() {
         },
         {
             id: 6,
-            img: "public/images/Property/Villa6.jpg",
+            img: "/images/Property/Villa6.jpg",
             title: "Aesthetic Villa",
             Payment: "$2500.00 /M",
             btnText: "Learn More",
